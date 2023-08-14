@@ -4,7 +4,7 @@ A simple GUI Calculator using Tkinter in Python programming.
 
 
 
-![](https://github.com/shubham4-9/Codsoft-Internship/blob/main/images/Screenshot%20(37).png)
+![](https://github.com/shubham4-9/Codsoft-Internship/blob/main/Calculator/images/Screenshot%20(37).png)
 
 
 
