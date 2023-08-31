@@ -4,7 +4,7 @@
 
 
 
- 
+ ![](https://github.com/shubham4-9/CODSOFT/blob/main/QUIZ%20GAME/Screenshot%20(61).png)
 
  # WORKING?
  The game consists of FOUR simple general knowledge multiple choice questions. Every question have four options out of which any single option is correct. By applying your knowledge you have to click the choice you 
